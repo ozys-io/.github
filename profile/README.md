@@ -27,3 +27,9 @@ Unique DEX business model based on Multichain Economy.
 The All-in-one DeFi from Ozys that automatically provides optimal interest rates by connecting DeFi on various chains.
 * https://belt.fi
 * https://github.com/BeltFi
+
+### Megaton Finance
+
+Megaton Finance is a DeFi protocol on TON, which aims at a gateway to the borderless DeFi.
+* https://megaton.fi
+* https://github.com/megaton-fi
